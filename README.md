@@ -228,6 +228,7 @@
 *Optional type system for Clojure*
 
   * [core.typed](https://github.com/clojure/core.typed)
+  * [spec](https://clojure.org/guides/spec)
 
 ## Pattern Matching
 
